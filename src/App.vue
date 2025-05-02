@@ -11,14 +11,15 @@ import { RouterLink, RouterView } from 'vue-router'
       </nav>
     </div>
   </header>
-<main class="container">
+  <main class="container">
     <RouterView />
-</main>
-<footer>
+  </main>
+  <footer>
     <div class="wrapper">
       <p>Copyright &copy; 2023</p>
       <p>All rights reserved</p>
     </div>
-</footer>
+  </footer>
 </template>
 
+<style scoped></style>
