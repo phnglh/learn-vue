@@ -1,0 +1,36 @@
+{
+  "common": {
+    "add": "Add",
+    "button": {
+      "add": "Add",
+      "cancel": "Cancel",
+      "clickMe": "Click Me",
+      "close": "Close",
+      "confirm": "Confirm",
+      "delete": "Delete",
+      "edit": "Edit",
+      "save": "Save"
+    },
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "error": "An error occurred",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "message": {
+      "deleteConfirmation": "Are you sure you want to delete this item?",
+      "hello": "Hello, World!",
+      "loadError": "Failed to load data. Please try again later.",
+      "saveSuccess": "Your changes have been saved successfully."
+    },
+    "no": "No",
+    "ok": "OK",
+    "reset": "Reset",
+    "save": "Save",
+    "search": "Search",
+    "success": "Operation successful",
+    "yes": "Yes"
+  }
+}

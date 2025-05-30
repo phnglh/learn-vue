@@ -1,0 +1,36 @@
+{
+  "common": {
+    "add": "追加",
+    "button": {
+      "add": "追加",
+      "cancel": "キャンセル",
+      "clickMe": "クリックしてください",
+      "close": "閉じる",
+      "confirm": "確認",
+      "delete": "削除",
+      "edit": "編集",
+      "save": "保存"
+    },
+    "cancel": "キャンセル",
+    "close": "閉じる",
+    "confirm": "確認",
+    "delete": "削除",
+    "edit": "編集",
+    "error": "エラーが発生しました",
+    "filter": "フィルター",
+    "loading": "読み込み中...",
+    "message": {
+      "deleteConfirmation": "このアイテムを削除してもよろしいですか？",
+      "hello": "こんにちは、世界！",
+      "loadError": "データの読み込みに失敗しました。後でもう一度お試しください。",
+      "saveSuccess": "変更が正常に保存されました。"
+    },
+    "no": "いいえ",
+    "ok": "OK",
+    "reset": "リセット",
+    "save": "保存",
+    "search": "検索",
+    "success": "操作が成功しました",
+    "yes": "はい"
+  }
+}
